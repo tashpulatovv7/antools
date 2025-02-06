@@ -1,0 +1,24 @@
+.header {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 26px;
+}
+
+.header-logo {
+	width: 140px;
+	height: 38px;
+	margin-top: 5px;
+}
+
+.header-pages {
+	display: flex;
+	gap: 50px;
+	margin-top: 12px;
+}
+
+.header-pages a {
+	font-size: 16px;
+	font-weight: 500;
+	color: #ffffff8c;
+	text-decoration: none;
+}
