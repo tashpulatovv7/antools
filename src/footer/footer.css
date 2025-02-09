@@ -1,0 +1,70 @@
+.footer {
+	display: flex;
+	justify-content: center;
+	margin-top: 70px;
+	gap: 100px;
+	width: 100%;
+	height: 250px;
+	padding: 30px;
+	gap: 200px;
+	font-family: sans-serif;
+	color: white;
+}
+.footer a {
+	text-decoration: none;
+	transition: all 0.3s ease-in-out;
+}
+
+.fot-1 {
+	display: flex;
+	flex-direction: column;
+	gap: 25px;
+}
+.logo-1 {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+.fot-text {
+	display: flex;
+
+	flex-direction: column;
+	gap: 10px;
+}
+.fot-text p {
+	font-weight: 400;
+	color: #ffffff8c;
+	font-size: 14px;
+	line-height: 30px;
+}
+
+.fot-2 {
+	display: flex;
+
+	flex-direction: column;
+	gap: 30px;
+}
+
+.fot-2 a {
+	color: #ffffff8c;
+}
+
+.fot-3 {
+	display: flex;
+	flex-direction: column;
+	gap: 30px;
+}
+.fot-3 a {
+	color: #ffffff8c;
+}
+
+.fot-4 {
+	display: flex;
+
+	flex-direction: column;
+	gap: 30px;
+}
+
+.fot-4 a {
+	color: #ffffff8c;
+}
